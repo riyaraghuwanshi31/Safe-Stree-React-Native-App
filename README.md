@@ -7,7 +7,10 @@
 - 🚨 **Instant SOS Alert**  
   Send emergency messages with live location to pre-set emergency contacts.
   <img src="https://github.com/user-attachments/assets/fb16436c-1516-40c9-a5f2-e98e974e9c01" alt="App Screenshot" width="350" height="600" />
- 
+
+   <img src="https://github.com/user-attachments/assets/efc4c3e6-5ea4-4746-bb65-59c2d1806d18" alt="App Screenshot" width="350" height="600" />
+
+
 
 
 - 🔴 **Alert Mode**  
@@ -31,6 +34,7 @@
 
 ## 📸 Screenshots
 
+j
 
 
 
