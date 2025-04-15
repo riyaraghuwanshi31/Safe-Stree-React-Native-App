@@ -4,6 +4,14 @@
 
 ## 🚀 Features
 
+- 📍 **User Authentication**
+
+    <img src="https://github.com/user-attachments/assets/37d385a3-b945-44a5-899e-195e99f6444f" alt="App Screenshot" width="350" height="600" />
+
+   <img src="https://github.com/user-attachments/assets/8e6cb759-31f5-4789-b882-da631c5a94ca" alt="App Screenshot" width="350" height="600" /> 
+
+
+
 - 🚨 **Instant SOS Alert**  
   Send emergency messages with live location to pre-set emergency contacts.
   <img src="https://github.com/user-attachments/assets/fb16436c-1516-40c9-a5f2-e98e974e9c01" alt="App Screenshot" width="350" height="600" />
