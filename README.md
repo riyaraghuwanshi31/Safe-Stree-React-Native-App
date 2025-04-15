@@ -24,6 +24,12 @@
 - 🔴 **Alert Mode**  
   Continuously shares your live location when you feel unsafe.
 
+  <img src="https://github.com/user-attachments/assets/653acfb3-4871-496b-a574-c7a39a0c4360" alt="App Screenshot" width="350" height="600" />
+
+    <img src="https://github.com/user-attachments/assets/1bc7de17-025b-441a-a872-c2c5f440f304" alt="App Screenshot" width="350" height="600" />
+
+  
+
 - 🎥 **Self-Defence Videos**  
   Curated video resources to learn self-defence techniques.
 
