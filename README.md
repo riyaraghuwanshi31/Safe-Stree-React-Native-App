@@ -6,6 +6,9 @@
 
 - 🚨 **Instant SOS Alert**  
   Send emergency messages with live location to pre-set emergency contacts.
+  
+  ![WhatsApp Image 2025-04-15 at 6 52 16 PM](https://github.com/user-attachments/assets/fb16436c-1516-40c9-a5f2-e98e974e9c01)
+
 
 - 🔴 **Alert Mode**  
   Continuously shares your live location when you feel unsafe.
