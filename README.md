@@ -21,6 +21,8 @@
 
 
 
+
+
 - 🔴 **Alert Mode**  
   Continuously shares your live location when you feel unsafe.
 
@@ -33,8 +35,18 @@
 - 🎥 **Self-Defence Videos**  
   Curated video resources to learn self-defence techniques.
 
+  
+
 - ⚖️ **Legal Awareness**  
   Information on rights and laws relevant to women's safety and self-defence.
+ 
+
+  <img src="https://github.com/user-attachments/assets/5cacf5ad-e56e-4403-bdbf-90f0b0f44197" alt="App Screenshot" width="350" height="600" />
+
+   <img src="https://github.com/user-attachments/assets/52deb790-57f6-457b-b48b-73e4bc42fa5f" alt="App Screenshot" width="350" height="600" />
+
+
+  
 
 - 📰 **Real-time News**  
   Stay informed with news updates related to women's safety and current events, sourced from reliable news outlets.
