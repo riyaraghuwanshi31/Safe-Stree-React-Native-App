@@ -10,7 +10,7 @@
 
    <img src="https://github.com/user-attachments/assets/8e6cb759-31f5-4789-b882-da631c5a94ca" alt="App Screenshot" width="350" height="600" /> 
 
-
+--------------------------------------------------------------------------------------------------
 
 - 🚨 **Instant SOS Alert**  
   Send emergency messages with live location to pre-set emergency contacts.
@@ -51,6 +51,15 @@
 - 📰 **Real-time News**  
   Stay informed with news updates related to women's safety and current events, sourced from reliable news outlets.
 
+![Uploading WhatsApp Image 2025-04-15 at 6.52.20 PM.jpeg…]()
+
+    <img src="https://github.com/user-attachments/assets/37bd236d-7b69-4043-b19e-f48aca82315d" alt="App Screenshot" width="350" height="600" />
+    
+ <img src="https://github.com/user-attachments/assets/37bd236d-7b69-4043-b19e-f48aca82315d" alt="App Screenshot" width="350" height="600" />
+
+<img src="https://github.com/user-attachments/assets/37bd236d-7b69-4043-b19e-f48aca82315d" alt="App Screenshot" width="350" height="600" />
+    
+
 ## 🛠️ Tech Stack
 
 - **Frontend:** React Native (JavaScript, JSX)
@@ -58,10 +67,10 @@
 - **Database:** MongoDB
 - **News Feed:** News API for real-time news updates
 
-## 📸 Screenshots
+## 📸 Other Sreenshots
 
-j
 
+ 
 
 
 
